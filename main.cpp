@@ -2,8 +2,6 @@
 #include <string>
 #include <vector>
 #include <stdlib.h>
-#include <Windows.h>
-#include <winuser.h>
 
 std::string nums;
 std::vector<int> number_buffer;
